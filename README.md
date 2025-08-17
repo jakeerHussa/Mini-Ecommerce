@@ -64,7 +64,7 @@ mini_ecommerce/
    npm install
    npm start
 
-    Frontend runs on: http://localhost:3000/
+    Frontend runs on: http://localhost:5173/
 
 ###  Option 2: Run with Docker
 

@@ -123,7 +123,7 @@ Steps:
 
 ---
 
-## 🧪 Running Tests
+## Running Tests
 cd backend
 pytest
 

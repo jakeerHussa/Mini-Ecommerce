@@ -44,7 +44,7 @@ mini_ecommerce/
 ###  Option 1: Run Locally
 
 1. Clone the repo
-   git clone https://github.com/your-username/mini_ecommerce.git
+   git clone https://github.com/jakeerHussa/Mini-Ecommerce.git
    cd mini_ecommerce
 
 2. Backend (Django)
@@ -68,7 +68,7 @@ mini_ecommerce/
 
 ###  Option 2: Run with Docker
 
-   docker-compose up --build
+   docker compose up --build
 
 - Backend → http://localhost:8000/  
 - Frontend → http://localhost:5173/  
